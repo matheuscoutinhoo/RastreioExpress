@@ -6,7 +6,7 @@ Technically, the software was made with the following technologies:
 - Swing;
 - MySQL;
 - MVC software architecture.
-
+Ps: the program must be runned in the netbeans IDE.
 # Screenshots
 <div align="center">
   <img src="assets/login-print.png" alt="login" width="360" />
