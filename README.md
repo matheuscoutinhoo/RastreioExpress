@@ -4,9 +4,10 @@ Also, the software have a user management system, in which it is possible to reg
 Technically, the software was made with the following technologies:
 - Java;
 - Swing;
+- JDK 17;
 - MySQL;
 - MVC software architecture.
-Ps: the program must be runned in the netbeans IDE.
+### Ps: the program must be runned in the netbeans IDE.
 # Screenshots
 <div align="center">
   <img src="assets/login-print.png" alt="login" width="360" />
