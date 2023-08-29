@@ -8,3 +8,11 @@ Technically, the software was made with the following technologies:
 - MVC software architecture.
 
 # Screenshots
+<div align="center">
+  <img src="assets/login-print.png" alt="login" width="360" />
+  <img src="assets/cadastro-print.png" alt="cadastro" width="360" />
+  <img src="assets/rastreio-print.png" alt="rastreio" width="310" />
+  <img src="assets/administracao-print.png" alt="administracao" width="310" />
+  <img src="assets/gerencia-print.png" alt="gerencia" width="310" />
+  
+</div>
